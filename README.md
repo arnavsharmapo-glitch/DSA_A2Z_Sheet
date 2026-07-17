@@ -38,6 +38,7 @@ Each folder maps to a topic on the sheet. Every file includes the problem name, 
 |---|---|---|
 | July 2026 | Basics | Input/Output |
 | July 2026 | Basics | If-ElseIf |
+| July 2026 | Basics | Switch Case |
 
 ---
 ⭐ Feel free to star if this helps you track your own DSA journey!
