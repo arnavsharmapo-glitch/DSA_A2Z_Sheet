@@ -1,5 +1,5 @@
 // Problem 4: Switch Case
-// Link: <paste the TUF problem link here>
+// Link: <https://takeuforward.org/plus/dsa/problems/switch-case?source=strivers-a2z-dsa-track>
 // Difficulty: Easy
 // Approach: Map day number (1-7) to weekday name using switch-case
 

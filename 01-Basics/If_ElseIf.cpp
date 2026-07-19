@@ -1,5 +1,5 @@
 // Problem 3: If ElseIf
-// Link: <paste the TUF problem link here>
+// Link: <https://takeuforward.org/plus/dsa/problems/if-elseif?source=strivers-a2z-dsa-track>
 // Difficulty: Easy
 // Approach: Grade checking using else-if chain, ordered ascending with <= checks
 
